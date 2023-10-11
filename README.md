@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chanodyapraveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanodyapraveen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chanodyapraveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanodyapraveen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chanodyaPraveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanodyaPraveen" height="30" width="40" /></a>
 <a href="https://fb.com/chanodyapraveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chanodyapraveen" height="30" width="40" /></a>
 <a href="https://instagram.com/chanodyapraveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanodyapraveen" height="30" width="40" /></a>
 </p>
