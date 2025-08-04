@@ -22,8 +22,8 @@
 <p align="left">
 <a href="https://twitter.com/chanodyapraveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanodyapraveen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chanodya praveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanodya praveen" height="30" width="40" /></a>
-<a href="https://fb.com/chanodya praveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chanodya praveen" height="30" width="40" /></a>
-<a href="https://instagram.com/chanodyapraveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanodyapraveen" height="30" width="40" /></a>
+<a href="[https://fb.com/chanodya praveen](https://www.facebook.com/chanodya.praveen.54?mibextid=ZbWKwL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chanodya praveen" height="30" width="40" /></a>
+<a href="[https://instagram.com/chanodyapraveen](https://www.instagram.com/chanodyapraveen/profilecard/?igsh=MWs0Z3A2eGZweDM3bg==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanodyapraveen" height="30" width="40" /></a>
 <a href="https://youtube.com/@chanodyapraveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chanodyapraveen" height="30" width="40" /></a>
 </p>
 
