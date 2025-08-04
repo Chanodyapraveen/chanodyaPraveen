@@ -1,9 +1,8 @@
-![MasterHe- 🌱 I'm currently learning **Software Engineering @NSBM Green university**
+🌱 I'm currently learning **Software Engineering @NSBM Green university**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/chanodyapraveen)
 - 💬 Ask me about **Android, Web Development, Software Engineering**
 - 📫 How to reach me **chanodyapraveen@gmail.com**
 - 📄 Know about my experiences [My Resume](https://github.com/chanodyapraveen)
-- ⚡ Fun fact **I think I am funny 😄**ttps://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Chanodya Praveen</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
