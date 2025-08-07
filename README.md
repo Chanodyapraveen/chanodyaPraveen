@@ -1,6 +1,6 @@
 🌱 I'm currently learning **Software Engineering @NSBM Green university**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/chanodyapraveen)
-- 💬 Ask me about **Android, Web Development, Software Engineering**
+- 💬 Ask me about *Web Development, Software Engineering**
 - 📫 How to reach me **chanodyapraveen@gmail.com**
 - 📄 Know about my experiences [My Resume](https://github.com/chanodyapraveen)
 <h1 align="center">Hi 👋, I'm Chanodya Praveen</h1>
